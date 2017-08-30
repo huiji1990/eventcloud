@@ -1,0 +1,6 @@
+NoSuchMethodError 1 err
+outofmemoryerror 1 err
+OutOfMemoryError 1 err
+com.ibm.ws.exception.ConfigurationWarning 1 err
+weblogic.application.ModuleException 1 err
+ClassNotFoundException 1 err

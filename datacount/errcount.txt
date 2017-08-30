@@ -1,0 +1,5 @@
+outofmemoryerror,5
+nosuchmethoderror,2
+classnotfoundexception,2
+com.ibm.ws.exception.configurationwarning,1
+weblogic.application.moduleexception,1
